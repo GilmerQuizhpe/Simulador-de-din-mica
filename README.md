@@ -1,0 +1,1 @@
+# Simulador-de-din-mica
